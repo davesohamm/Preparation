@@ -1,7 +1,7 @@
 # Preparation
 ## 📅 12 May 2025
 
-- ✅ Solved LeetCode Problems [2094. Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) & [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) 
+- ✅ Solved LeetCode Problems [2094. Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) & [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/). Used the same concept in both of them - `Counter()` method. It functions as a dictionary where keys are elements and values are their counts.
 - 📘 Worked on DAIICT sample paper (see `DAIICT Paper.pdf` in the repo)
   - Completed: Half of the paper
   - Plan: Remaining half to be completed tomorrow
