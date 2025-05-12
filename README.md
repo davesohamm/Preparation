@@ -15,7 +15,7 @@
   - Preorder, Postorder, Inorder Traversals ([ChatGPT Link](https://chatgpt.com/c/6822075a-cbc4-800e-b803-abd81251457e))
   - Spanning Tree ([ChatGPT Link](https://chatgpt.com/c/682207f4-e5c4-800e-91b5-fef82d462eca))
 
-##That's it for the first day! Bye ❤️
+That's it for the first day! **Bye ❤️**
 
 
 
