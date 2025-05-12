@@ -1,7 +1,7 @@
 # Preparation
 ## 📅 12 May 2025
 
-- ✅ Solved LeetCode Problem [2094. Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/)
+- ✅ Solved LeetCode Problems [2094. Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) & [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) 
 - 📘 Worked on DAIICT sample paper (see `DAIICT Paper.pdf` in the repo)
   - Completed: Half of the paper
   - Plan: Remaining half to be completed tomorrow
