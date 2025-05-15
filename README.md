@@ -41,9 +41,9 @@ That's it! **Bye ❤️**
 ## 📅 15 May 2025
 
 - ✅ Solved LeetCode Problem [2900. Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/description/) Achieved 100 Days badge with 143 problems solved today! 🪙
-  <p align="center">
-  <img src="leetcode100days.png" alt="100 Days Streak" width="250" />
-</p>
+
+  <p align="center"><img src="leetcode100days.png" alt="100 Days Streak" width="250" /></p>
+
 - 📚 Studied:
   - Graph Theory from Physics Wallah Lecture, where I learnt :
   - 1. Introduction:
