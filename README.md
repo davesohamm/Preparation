@@ -46,29 +46,29 @@ That's it! **Bye ❤️**
 </p>
 - 📚 Studied:
   - Graph Theory from Physics Wallah Lecture, where I learnt :
-      - 1. Introduction:
-        Graph theory is essential in math and computer science, studied through logic, set theory, and combinatorics.
-      - 2. History:
-        Originated in 1736 with a problem about visiting locations—birth of graph theory.
-      - 3. Basic Definitions:
-        A graph = vertices (nodes) + edges (connections).
-        Directed graphs use ordered pairs; undirected use unordered.
-      - 4. Key Concepts:
-        Self-loops: edge connects a vertex to itself.
-        Parallel edges: multiple edges between the same vertices.
-        Degree: number of edges connected to a vertex.
-      - 5. Important Theorems:
-        Sum of all vertex degrees = 2 × number of edges.
-        Pendant vertex: degree 1. Isolated vertex: degree 0.
-      - 6. Types of Graphs:
-        Simple, multi, and pseudo graphs, each with specific rules.
-        Max degree in a simple graph = n – 1.
-      - 7. Applications:
-        Used in solving real-world problems, especially in algorithms and computing.
-      - 8. Advanced Topics:
-        Includes directed graphs, graph complexity, and computational methods.
-      - 9. Graph Limits:
-        Understanding vertex/edge limits helps in valid graph construction.
+  - 1. Introduction:
+    Graph theory is essential in math and computer science, studied through logic, set theory, and combinatorics.
+  - 2. History:
+    Originated in 1736 with a problem about visiting locations—birth of graph theory.
+  - 3. Basic Definitions:
+    A graph = vertices (nodes) + edges (connections).
+    Directed graphs use ordered pairs; undirected use unordered.
+  - 4. Key Concepts:
+    Self-loops: edge connects a vertex to itself.
+    Parallel edges: multiple edges between the same vertices.
+    Degree: number of edges connected to a vertex.
+  - 5. Important Theorems:
+    Sum of all vertex degrees = 2 × number of edges.
+    Pendant vertex: degree 1. Isolated vertex: degree 0.
+  - 6. Types of Graphs:
+    Simple, multi, and pseudo graphs, each with specific rules.
+    Max degree in a simple graph = n – 1.
+  - 7. Applications:
+    Used in solving real-world problems, especially in algorithms and computing.
+  - 8. Advanced Topics:
+    Includes directed graphs, graph complexity, and computational methods.
+  - 9. Graph Limits:
+    Understanding vertex/edge limits helps in valid graph construction.
 
 That's it the first day! **Bye ❤️**
 
