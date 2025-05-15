@@ -70,6 +70,6 @@ That's it! **Bye ❤️**
   - 9. Graph Limits:
     Understanding vertex/edge limits helps in valid graph construction.
 
-That's it the first day! **Bye ❤️**
+That's it for the day! **Bye ❤️**
 
 
