@@ -72,4 +72,68 @@ That's it! **Bye ❤️**
 
 That's it for the day! **Bye ❤️**
 
+## 📅 16 & 17 May 2025
+
+- ✅ Solved LeetCode Problem [2901. Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/description/) & [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/).
+
+- 📚 Studied:
+  - Set Theory & Discrete Math Concepts, where I learnt:
+
+  - 1. Set Theory Basics:
+    A set is a collection of distinct elements.  
+    Types: finite, infinite, null (∅), universal (U), singleton.
+
+  - 2. Subset:
+    A ⊆ B ⇒ all elements of A are in B.  
+    Proper subset: A ⊂ B, A ≠ B.  
+    **Formulas**:  
+    - Subsets = 2ⁿ  
+    - Proper subsets = 2ⁿ – 1
+
+  - 3. Power Set:
+    The set of all subsets of A, denoted P(A).  
+    **Size**: |P(A)| = 2ⁿ
+
+  - 4. Relation, Domain, Range:
+    A relation R ⊆ A × B.  
+    - **Domain**: all first elements  
+    - **Range**: all second elements
+
+  - 5. Equivalence Relation:
+    A relation that is:
+    - **Reflexive**: aRa  
+    - **Symmetric**: aRb ⇒ bRa  
+    - **Transitive**: aRb ∧ bRc ⇒ aRc  
+    Results in **partitions** of the set.
+
+  - 6. Partial Order Relation:
+    A relation that is:
+    - **Reflexive**  
+    - **Antisymmetric**: aRb ∧ bRa ⇒ a = b  
+    - **Transitive**
+
+  - 7. POSET (Partially Ordered Set):
+    A set with a partial order relation.  
+    Not all elements are comparable.
+
+  - 8. TOSET (Totally Ordered Set):
+    A POSET where every pair is comparable.  
+    Example: Natural numbers with “≤”.
+
+  - 9. Hasse Diagram:
+    Visual representation of a POSET.  
+    - Omits reflexive and transitive edges.  
+    - Drawn bottom-up (least to greatest).
+    - **Minimal element**: no element below it.  
+    - **Maximal element**: no element above it.  
+    - **Greatest Lower Bound (GLB)**: largest element ≤ all selected elements.  
+    - **Least Upper Bound (LUB)**: smallest element ≥ all selected elements.
+
+  - 10. Pigeonhole Principle:
+    If n items in m containers and n > m, at least one has ≥ 2 items.  
+    **Generalized**: At least one has ⌈n/m⌉ items.
+
+That's it! **Bye ❤️**
+
+
 
