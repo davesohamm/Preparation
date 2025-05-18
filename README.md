@@ -135,5 +135,15 @@ That's it for the day! **Bye ❤️**
 
 That's it! **Bye ❤️**
 
+## 📅 18 May 2025
+
+- ✅ Solved LeetCode Problems [1931. Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/).
+- 🚗 Car Driving Practice (5:30 PM)
+  - Learnt reverse parking and reverse 8-loop
+  - Drove in traffic for some time
+- 🪄 Weekend Project:
+  - Worked on a project called [DavePad📝](https://github.com/davesohamm/DavePad)
+That's it for the day! **Bye ❤️**
+
 
 
