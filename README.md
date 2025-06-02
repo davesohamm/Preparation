@@ -145,5 +145,220 @@ That's it! **Bye ❤️**
   - Worked on a project called [DavePad📝](https://github.com/davesohamm/DavePad)
 That's it for the day! **Bye ❤️**
 
+## 📅 Till 2 June 2025
+
+- ✅ Solved 28 LeetCode Problems including 12 problems from FRAZ DSA sheet.
+- 📚 Studied:
+  
+### Warshall's Algorithm
+Warshall's algorithm is used to compute the transitive closure of a directed graph.  
+It determines whether there is a path between every pair of vertices.
+
+### Equivalence Relation
+A relation is an equivalence relation if it is reflexive, symmetric, and transitive.  
+It partitions a set into disjoint equivalence classes.
+
+### Bijective, Injective, Surjective
+An injective function maps distinct inputs to distinct outputs.  
+A surjective function covers every output value; bijective does both.
+
+### Inverse Function
+An inverse function reverses the effect of the original function.  
+It exists only for bijective functions.
+
+### Null Graph
+A null graph has vertices but no edges.  
+All vertices are isolated.
+
+### Trivial Graph
+A trivial graph contains only a single vertex and no edges.  
+It is the simplest form of a graph.
+
+### Complete Graph
+A complete graph connects every pair of distinct vertices with an edge.  
+It is denoted by \( K_n \) with \( \frac{n(n-1)}{2} \) edges.
+
+### Degree of a Vertex
+The degree of a vertex is the number of edges incident to it.  
+In a directed graph, we have in-degree and out-degree.
+
+### Handshaking Theorem
+The sum of degrees of all vertices in an undirected graph is twice the number of edges.  
+It’s derived from counting handshakes between people.
+
+### Bipartite Graph
+A graph is bipartite if vertices can be divided into two disjoint sets with no edges within a set.  
+Edges only connect vertices from different sets.
+
+### Complete Bipartite Graph
+It’s a bipartite graph where every vertex from one set is connected to all in the other set.  
+Denoted as \( K_{m,n} \).
+
+### Regular Graph
+A graph is regular if all its vertices have the same degree.  
+It can be k-regular if each vertex has degree k.
+
+### Walk, Open Walk, Closed Walk, Path
+A walk is a sequence of vertices and edges; it may repeat vertices and edges.  
+An open walk starts and ends at different vertices; a closed walk starts and ends at the same vertex; a path has no repeated vertices.
+
+### Connected Graph
+A graph is connected if there is a path between every pair of vertices.  
+If not, it is disconnected.
+
+### Euler Graph
+An Euler graph has an Euler cycle that uses every edge exactly once.  
+A connected graph has an Euler cycle if all vertices have even degree.
+
+### Euler Walk/Cycle
+An Euler walk uses every edge exactly once and may start/end at different vertices.  
+An Euler cycle is a closed Euler walk.
+
+### Hamiltonian Graph
+A Hamiltonian graph contains a cycle that visits every vertex exactly once.  
+Unlike Eulerian, it focuses on vertices instead of edges.
+
+### Hamiltonian Walk/Cycle
+A Hamiltonian walk visits each vertex exactly once.  
+If it starts and ends at the same vertex, it is a Hamiltonian cycle.
+
+### Planar Graph
+A graph is planar if it can be drawn without edge crossings.  
+Kuratowski’s Theorem helps identify non-planar graphs.
+
+### Euler's Formula \( R = E - V + 2 \)
+In a connected planar graph, the number of regions (R) = Edges (E) - Vertices (V) + 2.  
+This formula helps verify planarity.
+
+### Tree
+A tree is an acyclic connected graph.  
+It has \( n-1 \) edges for \( n \) vertices.
+
+### Eccentricity
+Eccentricity of a vertex is the greatest distance between it and any other vertex.  
+It helps determine graph centers.
+
+### Spanning Tree
+A spanning tree connects all vertices with the minimum number of edges and no cycles.  
+Every connected graph has at least one spanning tree.
+
+### Rank and Nullity
+Rank is the number of edges in a spanning tree; nullity is the number of cycles.  
+For a graph with \( e \) edges and \( v \) vertices, nullity = \( e - (v - 1) \).
+
+### Branch and Chords
+In a spanning tree, branches are edges in the tree; chords are edges not in the tree.  
+Chords create cycles when added to the tree.
+
+### Edge Cut Sets
+An edge cut set is a set of edges whose removal disconnects the graph.  
+It is used in network reliability.
+
+### Vertex Cut Sets
+A vertex cut set is a set of vertices whose removal disconnects the graph.  
+It identifies critical points in the network.
+
+### Matching
+A matching is a set of edges without common vertices.  
+It pairs elements from one set to another.
+
+### Maximal Matching
+A maximal matching is a matching that cannot be extended by adding more edges.  
+It is not necessarily the largest possible.
+
+### Maximum Matching
+A maximum matching is a matching with the largest possible number of edges.  
+It may or may not be unique.
+
+### Perfect Matching
+A perfect matching covers all vertices such that every vertex is matched.  
+Only possible if the number of vertices is even.
+
+### Line Covering
+A line covering is a set of lines (edges) covering all vertices.  
+It relates to matching problems.
+
+### Minimal Line Covering
+A minimal line covering uses the smallest number of edges to cover all vertices.  
+It often complements maximum matching.
+
+### Minimum Line Covering
+It’s the least number of lines (edges) needed to cover all vertices.  
+It’s used in optimization problems.
+
+### Independent Line Sets
+Independent line sets contain edges with no shared vertices.  
+They form the basis of matchings.
+
+### Vertex Covering
+A vertex cover is a set of vertices such that every edge is incident to at least one vertex.  
+Finding the minimum vertex cover is NP-complete.
+
+### Graph Theory
+Graph theory studies graphs: structures made of nodes (vertices) and links (edges).  
+It is widely used in computer science, biology, and social networks.
+
+### Closure
+Closure of a set under an operation means performing the operation always results in an element of the same set.  
+It is a property in algebraic structures.
+
+### Algebraic Structure
+An algebraic structure consists of a set with one or more operations.  
+Examples include groups, rings, and fields.
+
+### Associative
+An operation is associative if \( (a * b) * c = a * (b * c) \).  
+Associativity is required in semigroups and groups.
+
+### Semigroup
+A semigroup is a set with an associative binary operation.  
+It need not have an identity or inverse.
+
+### Identity
+An identity element leaves other elements unchanged under an operation.  
+For addition, 0 is the identity; for multiplication, 1 is.
+
+### Monoid
+A monoid is a semigroup with an identity element.  
+It still may lack inverses.
+
+### Inverse
+An inverse element undoes the effect of the operation.  
+For each \( a \), there exists \( b \) such that \( a * b = \text{identity} \).
+
+### Group
+A group is a set with an associative operation, identity, and inverses.  
+Groups form the foundation of abstract algebra.
+
+### Commutative
+An operation is commutative if \( a * b = b * a \).  
+Addition and multiplication of numbers are examples.
+
+### Abelian Group
+An Abelian group is a group with a commutative operation.  
+Named after mathematician Niels Abel.
+
+### Finite Group
+A finite group has a finite number of elements.  
+Its size is called the order of the group.
+
+### Order of Group
+The order of a group is the number of its elements.  
+In cyclic groups, the order of an element divides the group order.
+
+### Graph Coloring
+Graph coloring assigns colors to vertices so that adjacent ones have different colors.  
+It helps solve scheduling and map coloring problems.
+
+### Proper Vertex Coloring
+A proper coloring ensures no two adjacent vertices share the same color.  
+Minimum number of colors is the graph's chromatic number.
+
+### Chromatic Number
+The chromatic number is the smallest number of colors needed for proper vertex coloring.  
+It varies with graph structure.
+
+
+That's it! Completed Discrete Mathematics today! 
 
 
