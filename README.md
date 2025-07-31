@@ -362,3 +362,17 @@ It varies with graph structure.
 That's it! Completed Discrete Mathematics today! 
 
 
+## 📅 Till 30 July 2025
+
+- ✅ Gave Nirma and DAIICT entrance exams. Cleared both of them!!
+- ✅ Chose Nirma over DAIICT for better placements and internship opportunities. 
+- 📘 Worked on a project called Nirma - Study Buddy. Implemented it.
+- 🚗 Drove car in Gandhinagar. all by myself.
+- 📚 Studied:
+  - various expert session at Nirma MTech orientation programme 2025.
+  - from 17/07/2025 to 30/07/2025
+
+# With this, the aim behind this repo is fulfilled. I will try to maintain another repo for all the Nirma college work! ✌🏻
+That's it for this repo! **Bye ❤️**
+
+
